@@ -1,0 +1,13 @@
+Base de datos	-->	Postgres
+
+Kubernets	-->	Docker
+
+Backend		-->	Spring Boot
+
+Frontend
+	AngularJs , ReactJs
+
+	CMS - Life ray (investigar)
+
+
+
