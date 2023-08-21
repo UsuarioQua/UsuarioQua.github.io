@@ -1,6 +1,6 @@
 {
-    "name": "plantilla_limpia",
-    "short_name": "plantilla_limpia",
+    "name": "app_preste",
+    "short_name": "app_preste",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
